@@ -1,12 +1,12 @@
 ---
 title: "RMS (Restaurant Menu System)"
-subtitle: "A slick inventory managment for the restaurant industry"
+subtitle: "A slick menu and inventory managment system for the restaurant industry"
 description: This page is a demo that shows everything you can do inside portfolio and blog posts.
 featured_image: "/images/demo/demo-square.jpg"
 logo: "../images/logos/rms-logo.png"
 ---
 
-![](/images/demo/demo-landscape.jpg)
+![](../images/demo/demo-landscape.jpg)
 
 ## Demo content
 
