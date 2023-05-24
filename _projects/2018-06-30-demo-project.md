@@ -1,9 +1,9 @@
 ---
-title: "Mood Tracker"
-subtitle: "A Web App for Mental Health"
-date: 2018-06-30 00:00:00
+title: "RMS (Restaurant Menu System)"
+subtitle: "A slick inventory managment for the restaurant industry"
 description: This page is a demo that shows everything you can do inside portfolio and blog posts.
 featured_image: "/images/demo/demo-square.jpg"
+logo: "../images/logos/rms-logo.png"
 ---
 
 ![](/images/demo/demo-landscape.jpg)
