@@ -5,14 +5,10 @@ layout: default
 <section class="intro">
 
 	<div class="wrap">
-
-		{% if page.mood %}
-		<h1>{{ page.title }}</h1>
-		{% else %}
-		<h1>{{ page.title }}</h1>
-		<p>{{ page.subtitle }}</p>
-		{% endif %}
-
+		<center>
+			<img src="{{ page.logo }}">
+			<p style="font-size: x-large;">{{ page.subtitle }}</p>
+		</center>
 	</div>
 
 </section>
